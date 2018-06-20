@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "GrayCatCC_v14_u2018_1",
+"dataUrl": "GCCC_Webscene.data.unityweb",
+"asmCodeUrl": "GCCC_Webscene.asm.code.unityweb",
+"asmMemoryUrl": "GCCC_Webscene.asm.memory.unityweb",
+"asmFrameworkUrl": "GCCC_Webscene.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
